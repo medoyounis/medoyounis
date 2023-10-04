@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @medoyounis
-- 👀 I’m interested in Python and Machine Learning
-- 🌱 I’m currently learning OpenCV and Machine learning
+- 👋 Hi, I’m Mohammed Younis
+- 👀 I’m Passionate about Machine Learning and Deep Learning.
 
 
 <!---
